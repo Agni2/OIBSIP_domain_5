@@ -1,6 +1,6 @@
 # OIBSIP_domain_5
 
-# 🗨️ Simple Python Chat App 
+# 🗨️ Chat Bot 
 This is a basic terminal-based chat application built using Python’s socket and threading modules. It allows multiple clients to connect to a server and exchange real-time messages in a shared chatroom.
 
 ## 📌 Objective
